@@ -1,11 +1,11 @@
 # Data Reduction
 ## 1.	Hypothesis Testing
-      a.	Chi Square Test
+- a. Chi Square Test
       
 ## 2.	Correlation
-      a.	Pearson
-      b.	Kendall Rank
-      c.	Spearman
+- a. Pearson
+- b. Kendall Rank
+- c. Spearman
       
 ## 3.	Covariance
 
